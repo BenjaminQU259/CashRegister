@@ -1,4 +1,6 @@
-namespace CashRegister
+using CashRegister;
+
+namespace CashRegisterTest
 {
 	public class SpyPrinter : Printer
 	{
